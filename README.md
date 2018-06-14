@@ -18,5 +18,5 @@ We select clips whose camera motion can be well-stabilized.
 | Name         | Usage |
 | -----------  | ------ |
 | crawl        | crawling Vimeo urls by query and user names |
-| pre-process  | scene detection and camera stabilization    |
+| process  | scene detection and camera stabilization    |
 | util   | utility function   |
