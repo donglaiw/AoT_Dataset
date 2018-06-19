@@ -1,7 +1,12 @@
 # AOT_Dataset
-Tools and datasets collected for the CVPR 18 paper ["Learning and Using the Arrow of Time"](http://vision03.csail.mit.edu/manip/aot/aot.html) project
+Tools and datasets collected for the paper:
 
-[Torch code for T-CAM model in the paper](https://github.com/donglaiw/AoT_TCAM)
+D. Wei, J. Lim, A. Zisserman, W. Freeman.
+<b>"Learning and Using the Arrow of Time."</b>
+Computer Vision and Pattern Recognition (CVPR), 2018. 
+
+[project page](http://vision03.csail.mit.edu/manip/aot/aot.html)
+[Torch code for T-CAM model](https://github.com/donglaiw/AoT_TCAM)
 
 ## Datasets
 We select clips whose camera motion can be well-stabilized.
