@@ -6,10 +6,17 @@ With keyword matching (e.g. “reverse motion”) and manual refinement on the t
 we collected 67 clips from 25 popular movies, including ‘Mary Poppins’, ‘Brave Heart’ and ‘Pulp Fiction’.
 
 [link to movie clips](https://youtu.be/1zfZhXkOzCw)
+=======
+### Donwload
+- [Original frames]()
+- [Stabilized 20-frame clips]()
+
+### Data Files
+- `video.txt`: a list of 25 movies using reverse film technique
+- `test_clip20.txt`: list of the stabilized clips with video name and starting frame index
 
 
---
-Collection Process (`T_rf.py`)
-- IMDB top-250 movies/shows (`top250.html`, `vid_250.txt`)
-- keyword matching "backward", "reverse" + manual pruning (`trivia_rv1023.txt`)
-- manual download and extract clips
+### Collection Process (`T_rf.py`)
+- movie list: IMDB top-250 movies (`top250.html`, `vid_250.txt`)
+- reverse film clip description: crawl trivia + keyword matching "backward", "reverse" + manual pruning (`trivia_rv1023.txt`)
+- reverse film clip: manual download and extract clips

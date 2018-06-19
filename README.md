@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # AOT_Dataset
 Tools and datasets collected for the paper:
+=======
+# AOT_Dataset (under construction)
+Tools and datasets collected for the CVPR 18 paper ["Learning and Using the Arrow of Time"](http://vision03.csail.mit.edu/manip/aot/aot.html) project
+>>>>>>> 4301aa93cc39285427aee7a3f2a8ce001ec3c4af
 
 D. Wei, J. Lim, A. Zisserman, W. Freeman.
 <b>"Learning and Using the Arrow of Time."</b>
