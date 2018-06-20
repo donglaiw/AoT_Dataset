@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# AOT_Dataset
-Tools and datasets collected for the paper:
-=======
 # AOT_Dataset (under construction)
 Tools and datasets collected for the CVPR 18 paper ["Learning and Using the Arrow of Time"](http://vision03.csail.mit.edu/manip/aot/aot.html) project
->>>>>>> 4301aa93cc39285427aee7a3f2a8ce001ec3c4af
 
 D. Wei, J. Lim, A. Zisserman, W. Freeman.
 <b>"Learning and Using the Arrow of Time."</b>
@@ -32,3 +27,14 @@ We select clips whose camera motion can be well-stabilized.
 | crawl        | crawling Vimeo urls by query and user names |
 | process  | scene detection and camera stabilization    |
 | util   | utility function   |
+
+Please cite our paper if you find it useful for your work:
+```
+@inproceedings{wei2018learning,
+  title={Learning and Using the Arrow of Time},
+  author={Wei, Donglai and Lim, Joseph J and Zisserman, Andrew and Freeman, William T},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={8052--8060},
+  year={2018}
+}
+```
