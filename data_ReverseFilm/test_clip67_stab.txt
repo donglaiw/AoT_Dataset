@@ -326,6 +326,14 @@ Bringing_Out_The_Dead/1_13_0/46 11
 Bringing_Out_The_Dead/1_13_0/51 11
 Bringing_Out_The_Dead/1_13_13/36 11
 Bringing_Out_The_Dead/1_13_13/41 11
+Memento/0_2_0/126 11
+Bringing_Out_The_Dead/1_13_1/11 11
+Bringing_Out_The_Dead/1_13_7/31 11
+Bringing_Out_The_Dead/1_13_8/21 11
+Bringing_Out_The_Dead/1_13_10/6 11
+Bringing_Out_The_Dead/1_13_10/11 11
+Bringing_Out_The_Dead/1_13_10/16 11
+Bringing_Out_The_Dead/1_13_20/11 11
 Brave_Heart/2_46_24 60
 Memento/0_2_10 38
 Memento/0_2_12 41
@@ -370,3 +378,4 @@ Bringing_Out_The_Dead/1_13_16 28
 Bringing_Out_The_Dead/1_13_17 45
 Bringing_Out_The_Dead/1_13_18 42
 Bringing_Out_The_Dead/1_13_19 42
+Bram_Stokers_Dracula_8rlohOLUi9k/0_1_25 38

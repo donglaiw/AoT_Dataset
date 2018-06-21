@@ -39,3 +39,12 @@ Please cite our paper if you find it useful for your work:
   year={2018}
 }
 ```
+## Progress
+- [x] data_ReverseFilm
+- [x] data_MJPEG-AoT
+- [x] data_TA180
+- [] data_ReverseFilm
+- [] data_Flickr-AoT
+- [] data_Kinetics-AoT
+- [x] tool_crawl
+- [] tool_process
