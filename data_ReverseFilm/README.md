@@ -7,6 +7,7 @@ we collected 67 clips from 25 popular movies, including ‘Mary Poppins’, ‘B
 
 Visualization of movie clips [original version](http://vision03.csail.mit.edu/manip/data/imdb/T_movie_gif10.htm)
 [10-frame version](http://vision03.csail.mit.edu/manip/data/imdb/T_movie_gif10.htm)
+
 =======
 ### Donwload Clips
 - [Black Stripe
