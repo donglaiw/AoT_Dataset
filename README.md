@@ -6,7 +6,7 @@ Tools and datasets collected for the CVPR 18 paper
 
 D. Wei, J. Lim, A. Zisserman, W. Freeman.
 <b>"Learning and Using the Arrow of Time."</b>
-Computer Vision and Pattern Recognition (CVPR), 2018. 
+in CVPR 2018. 
 
 ## Repo Progress
 - [x] data_ReverseFilm
