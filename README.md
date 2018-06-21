@@ -1,5 +1,5 @@
 # AOT_Dataset (under construction)
-[[project page]](http://vision03.csail.mit.edu/manip/aot/aot.html)
+[[project page]](http://aot.csail.mit.edu/)
 [[Torch code for T-CAM model]](https://github.com/donglaiw/AoT_TCAM)
 
 Tools and datasets collected for the CVPR 18 paper
