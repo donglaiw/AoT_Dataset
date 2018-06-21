@@ -1,4 +1,4 @@
-# AOT_Dataset (under construction)
+# AOT_Dataset
 [[project page]](http://aot.csail.mit.edu/)
 [[Torch code for T-CAM model]](https://github.com/donglaiw/AoT_TCAM)
 
@@ -8,7 +8,14 @@ D. Wei, J. Lim, A. Zisserman, W. Freeman.
 <b>"Learning and Using the Arrow of Time."</b>
 Computer Vision and Pattern Recognition (CVPR), 2018. 
 
-
+## Repo Progress
+- [x] data_ReverseFilm
+- [x] data_MJPEG-AoT
+- [x] data_TA180
+- [x] tool_crawl
+- [] data_Flickr-AoT
+- [] data_Kinetics-AoT
+- [] tool_process
 
 ## Datasets
 We select clips whose camera motion can be well-stabilized.
@@ -39,12 +46,4 @@ Please cite our paper if you find it useful for your work:
   year={2018}
 }
 ```
-## Progress
-- [x] data_ReverseFilm
-- [x] data_MJPEG-AoT
-- [x] data_TA180
-- [] data_ReverseFilm
-- [] data_Flickr-AoT
-- [] data_Kinetics-AoT
-- [x] tool_crawl
-- [] tool_process
+
