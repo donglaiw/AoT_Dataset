@@ -15,7 +15,7 @@ Original movie clips [[all-frame version]](http://vision03.csail.mit.edu/manip/d
 
 ## Data Files
 - `test_vid23.txt`: a list of 23 movies using reverse film technique
-- `test_clip67.txt`: list of 67 clips that have at least one well-stabilized 11-frame sequence
+- `test_clip67.txt`: a list of 67 clips that have at least one well-stabilized 11-frame sequence
 - `test_clip67_stab11.txt`: clip with static camera-> chop it into 11-frame chunk; clips with moving camera -> stabilized 11-frame sequences (stride=5)
 
 

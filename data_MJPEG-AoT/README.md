@@ -7,3 +7,8 @@ we search on Vimeo with key- words such as “mjpeg”, “prores”, and “can
 We verify the codec of the downloaded video with “ffmpeg”. 
 
 We initially obtain around <b>7k</b> videos before pre-processing and <b>16.9k</b> individual shots from <b>3.5k</b> video after pre-processing.
+
+## Data Files
+- `all_video.txt`: a list of 3.5k vimeo video urls
+- `all_clip.txt`: a list of 16.9k clips with video id and start-end frame index
+
