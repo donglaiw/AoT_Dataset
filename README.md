@@ -1,12 +1,14 @@
 # AOT_Dataset (under construction)
-Tools and datasets collected for the CVPR 18 paper ["Learning and Using the Arrow of Time"](http://vision03.csail.mit.edu/manip/aot/aot.html) project
+[[project page]](http://aot.csail.mit.edu/)
+[[Torch code for T-CAM model]](https://github.com/donglaiw/AoT_TCAM)
+
+Tools and datasets collected for the CVPR 18 paper
 
 D. Wei, J. Lim, A. Zisserman, W. Freeman.
 <b>"Learning and Using the Arrow of Time."</b>
 Computer Vision and Pattern Recognition (CVPR), 2018. 
 
-[project page](http://vision03.csail.mit.edu/manip/aot/aot.html)
-[Torch code for T-CAM model](https://github.com/donglaiw/AoT_TCAM)
+
 
 ## Datasets
 We select clips whose camera motion can be well-stabilized.
@@ -20,14 +22,13 @@ We select clips whose camera motion can be well-stabilized.
 | Flickr-AoT   | 147k   | subset of the [Flickr-100M + Extra Flickr dataset](http://carlvondrick.com/tinyvideo/)|
 
 ## Tools
-
-
 | Name         | Usage |
 | -----------  | ------ |
 | crawl        | crawling Vimeo urls by query and user names |
 | process  | scene detection and camera stabilization    |
 | util   | utility function   |
 
+## Citation
 Please cite our paper if you find it useful for your work:
 ```
 @inproceedings{wei2018learning,

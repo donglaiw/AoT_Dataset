@@ -9,12 +9,14 @@ Visualization of movie clips [original version](http://vision03.csail.mit.edu/ma
 [10-frame version](http://vision03.csail.mit.edu/manip/data/imdb/T_movie_gif10.htm)
 =======
 ### Donwload Clips
-- [Black Stripe Removed]()
-- [Stabilized 10-frame]()
+- [Black Stripe
+  Removed](http://aot.csail.mit.edu/dataset/reverseFilm/orig_bs.zip)
+- [Stabilized 11-frame](http://aot.csail.mit.edu/dataset/reverseFilm/stab_11.zip)
 
 ### Data Files
 - `test_vid23.txt`: a list of 23 movies using reverse film technique
-- `test_clip67.txt`: list of 67 clips that have at least one well-stabilized 10-frame sequence
+- `test_clip67.txt`: list of 67 clips that have at least one well-stabilized 11-frame sequence
+- `test_clip67_stab11.txt`: clip with static camera-> chop it into 11-frame chunk; clips with moving camera -> stabilized 11-frame sequences (stride=10)
 
 
 ### Collection Process (`T_rf.py`)
