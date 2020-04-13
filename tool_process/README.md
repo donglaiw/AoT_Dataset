@@ -1,6 +1,6 @@
 Tools for Video Pre-process [under construction] 
 ===
-To save time and storage, we directly pre-process video clips from the video in C++, instead of extracting all frames. In practice, we first use the statistics computed below to automatically select good clips, and then use html/js visualization [demo](https://github.com/donglaiw/js-demo) for manual proofreading.
+To save time and storage, we directly pre-process video clips from the video in C++, instead of extracting all frames. In practice, we first use the statistics computed below to automatically select good clips, and then use html/js visualization [(demo)](https://github.com/donglaiw/js-demo) for manual proofreading.
 
 
 Below are some useful functionalities:
