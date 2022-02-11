@@ -10,8 +10,8 @@ Original movie clips [[all-frame version]](http://vision03.csail.mit.edu/manip/d
 
 ## Donwload Clips
 - [Black Stripe
-  Removed](http://aot.csail.mit.edu/dataset/reverseFilm/orig_bs.zip)
-- [Stabilized 11-frame](http://aot.csail.mit.edu/dataset/reverseFilm/stab_11.zip)
+  Removed](https://www.dropbox.com/s/api28pyfwv45h4d/orig_bs.zip?dl=0)
+- [Stabilized 11-frame](https://www.dropbox.com/s/m8drca8gbzb7fwp/stab_11.zip?dl=0)
 
 ## Data Files
 - `test_vid23.txt`: a list of 23 movies using reverse film technique
